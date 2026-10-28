@@ -1,0 +1,14 @@
+# Keep downloaded source files and generated results out of version control by default.
+data/*.csv
+!data/used_cars_combined.csv
+!data/raw/
+!data/raw/*.csv
+outputs/*
+!outputs/.gitkeep
+!outputs/expanded_dataset/
+!outputs/expanded_dataset/*.csv
+!outputs/expanded_dataset/*.png
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+work/

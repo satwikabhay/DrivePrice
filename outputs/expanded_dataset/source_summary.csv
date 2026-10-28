@@ -1,0 +1,5 @@
+source_dataset,listings,median_price_lakh,first_year,last_year
+CarDekho 301-row sample,198,5.25,2003,2018
+CarDekho details sample,3529,3.5,1992,2020
+CarDekho details v3,6924,4.0,1983,2020
+CarDekho details v4,2054,8.25,1988,2022
